@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">A/C Management System</string>
+    <string name="order">Order Management</string>
+    <string name="customer">Customer Management</string>
+    <string name="inventory">Inventory Management</string>
+    <string name="employee">Employee Management</string>
+    <string name="gold">Gold Ref Engineers</string>
+    <string name="ac_mac">A/C Machine</string>
+    <string name="about">About Us</string>
+
+    <string name="reset">Reset</string>
+    <string name="add">Add</string>
+    <string name="orderform">Order Form</string>
+    <string name="orderID">Order ID</string>
+    <string name="description">Description</string>
+    <string name="customerid">Customer ID</string>
+    <string name="customername">Customer Name</string>
+    <string name="customerphone">Customer Phone</string>
+    <string name="customeraddress">Customer Address</string>
+    <string name="gender">Gender</string>
+    <string name="nic">NIC</string>
+    <string name="dateofbirth">Date of Birth</string>
+    <string name="InvenMain">Inventory Form</string>
+    <string name="ItemName">Item Name</string>
+    <string name="brand">Brand</string>
+    <string name="warrenty">Warrenty</string>
+    <string name="unitPrice">Unit Price</string>
+    <string name="ProductId">Product ID</string>
+    <string name="productID">Product ID</string>
+    <string name="quantity">Quantity</string>
+    <string name="totalprice">Total Price</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="addProduct">Add Products</string>
+    <string name="insert">Insert</string>
+    <string name="employeeform">Employee Form</string>
+    <string name="empID">Emp ID</string>
+    <string name="name">Name</string>
+    <string name="age">Age</string>
+    <string name="address">Address</string>
+    <string name="contactNumber">Contact Number</string>
+    <string name="dob">Date of Birth</string>
+    <string name="position">Position</string>
+    <string name="title_activity_order__form_">Order_Form_Activity</string>
+
+</resources>
